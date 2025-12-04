@@ -1,6 +1,3 @@
-## Hi there 👋
-
-
 # About Me
 
 I am Efrat, a software engineer with deep experience in embedded systems, real time systems and C++. I enjoy solving hard technical problems and building systems that push hardware to its limits. 
