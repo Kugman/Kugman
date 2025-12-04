@@ -1,13 +1,19 @@
 # About Me
 
-I am Efrat, a software engineer with deep experience in embedded systems, real time systems and C++. I enjoy solving hard technical problems and building systems that push hardware to its limits. 
-I spent more than a decade working on performance critical code and low level development. 
-I also enjoy exploring new technologies, from GPU programming to machine learning accelerators.
+I am Efrat, a software engineer with deep experience in embedded systems, real time systems and C++. My work focuses on performance, reliability and low level problem solving. 
+Over more than a decade in the industry I have designed and built systems that interact directly with hardware, optimize computation paths and handle strict timing requirements.
 
-Outside of work I explore new technologies, learn tools that interest me, and work on personal projects that sharpen my engineering skills. 
-I like experimenting, testing ideas, and improving the way I build software.
+I enjoy challenges that demand precision thinking, from debugging complex race conditions to improving performance across different architectures. 
+I care about clean design, predictable behavior and writing code that stands up to real world constraints. 
+I am also interested in modern directions in computing, including GPU programming, parallel workloads and machine learning accelerators.
 
-My GitHub is a place where I experiment, learn, and share projects that reflect my curiosity and my drive to grow as an engineer.
+Outside of my professional work I spend a lot of time learning. 
+I explore new technologies, study tools that catch my interest and build personal projects that help me grow as an engineer. 
+I like experimenting, testing ideas and improving my technical understanding through hands on practice.
+
+My GitHub is a place where I document this work. 
+I share projects, try new approaches and keep track of what I learn. 
+It reflects my curiosity, my practical mindset and my commitment to improving the way I build software.
 
 <!--
 **Kugman/Kugman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
