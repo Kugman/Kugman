@@ -1,4 +1,4 @@
-![Efrat Kugman — Embedded · Real-Time · C++](https://capsule-render.vercel.app/api?type=waving&color=0:102A43,45:1C7C8C,100:6C63FF&height=220&section=header&text=EFRAT%20KUGMAN&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=EMBEDDED%20%7C%20REAL-TIME%20%7C%20C%2B%2B&descSize=18&descAlignY=58)
+![Efrat Kugman — Embedded · Real-Time · C++](https://capsule-render.vercel.app/api?type=waving&color=0:102A43,45:1C7C8C,100:6C63FF&height=220&section=header&text=EFRAT%20SHMUEL&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=EMBEDDED%20%7C%20REAL-TIME%20%7C%20C%2B%2B&descSize=18&descAlignY=58)
 
 <div align="center">
 
