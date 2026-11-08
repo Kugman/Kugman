@@ -1,31 +1,47 @@
-# About Me
+![Efrat Kugman — Embedded · Real-Time · C++](https://capsule-render.vercel.app/api?type=waving&color=0:102A43,45:1C7C8C,100:6C63FF&height=220&section=header&text=EFRAT%20KUGMAN&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=EMBEDDED%20%7C%20REAL-TIME%20%7C%20C%2B%2B&descSize=18&descAlignY=58)
 
-I am Efrat, a software engineer with deep experience in embedded systems, real time systems and C++. My work focuses on performance, reliability and low level problem solving. 
-Over more than a decade in the industry I have designed and built systems that interact directly with hardware, optimize computation paths and handle strict timing requirements.
+<div align="center">
 
-I enjoy challenges that demand precision thinking, from debugging complex race conditions to improving performance across different architectures. 
-I care about clean design, predictable behavior and writing code that stands up to real world constraints. 
-I am also interested in modern directions in computing, including GPU programming, parallel workloads and machine learning accelerators.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1100&color=00D9FF&center=true&vCenter=true&width=780&height=45&lines=I+build+software+where+timing+is+part+of+correctness;Turning+hard+systems+problems+into+reliable+behavior;Performance-minded+C%2B%2B%2C+close+to+the+hardware)](https://git.io/typing-svg)
 
-Outside of my professional work I spend a lot of time learning. 
-I explore new technologies, study tools that catch my interest and build personal projects that help me grow as an engineer. 
-I like experimenting, testing ideas and improving my technical understanding through hands on practice.
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+<img src="https://img.shields.io/badge/EMBEDDED-1C7C8C?style=for-the-badge" alt="Embedded systems"/>
+<img src="https://img.shields.io/badge/REAL--TIME-6C63FF?style=for-the-badge" alt="Real-time systems"/>
+<img src="https://img.shields.io/badge/PERFORMANCE-F77F00?style=for-the-badge" alt="Performance engineering"/>
 
-My GitHub is a place where I document this work. 
-I share projects, try new approaches and keep track of what I learn. 
-It reflects my curiosity, my practical mindset and my commitment to improving the way I build software.
+</div>
 
-<!--
-**Kugman/Kugman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I build software for systems where performance and timing are part of correctness.
 
-Here are some ideas to get you started:
+I’m Efrat, a software engineer with **10+ years of experience** designing and building software that interacts directly with hardware. My focus is **embedded systems, real-time behavior, and C++**—work where reliability, performance, and strict timing requirements matter.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I work across the details that determine how a system behaves: concurrency, computation paths, hardware interactions, and differences between architectures. I enjoy taking difficult low-level problems, understanding what’s really happening, and turning that understanding into dependable software.
+
+## Where I Make an Impact
+
+- **Real-time systems:** designing for correct behavior within strict timing requirements
+- **Complex debugging:** investigating race conditions and hard-to-reproduce behavior
+- **Performance:** improving computation paths across different architectures
+- **Hardware-aware engineering:** connecting low-level behavior to system reliability
+
+## How I Think About Systems
+
+**Correctness includes when the result arrives.**  
+**Performance matters when it holds up under real constraints.**  
+**Reliable behavior starts with understanding the whole system.**
+
+## Exploring Next
+
+GPU programming · Parallel workloads · Machine learning accelerators
+
+## Projects & Experiments
+
+I use GitHub to share projects, explore ideas, and keep building my technical range.
+
+➡️ [Explore my repositories](https://github.com/Kugman?tab=repositories)
+
+## 🤝 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/efrat-kugman/)
+
+![Footer wave](https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:102A43&height=110&section=footer)
