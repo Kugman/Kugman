@@ -13,7 +13,7 @@
 
 ## I build software for systems where performance and timing are part of correctness.
 
-I’m Efrat, a software engineer with **10+ years of experience** designing and building software that interacts directly with hardware. My focus is **embedded systems, real-time behavior, and C++**—work where reliability, performance, and strict timing requirements matter.
+I’m Efrat, a software engineer with **10+ years of experience** designing and building software that interacts directly with hardware. My focus is **embedded systems, real-time behavior, and C++** work where reliability, performance, and strict timing requirements matter.
 
 I work across the details that determine how a system behaves: concurrency, computation paths, hardware interactions, and differences between architectures. I enjoy taking difficult low-level problems, understanding what’s really happening, and turning that understanding into dependable software.
 
